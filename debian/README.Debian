@@ -1,0 +1,6 @@
+dbus-file-manager for Debian
+----------------------------
+
+Expose freedesktop dbus filemanager implementation to thunar
+
+ -- Matiaas De lellis <mati86dl@gmail.com>  Tu, 2 Mar 2017 12:00:19 -0300

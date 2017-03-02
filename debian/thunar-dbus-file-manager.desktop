@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Thunar Freedesktop FileManager.
+Comment=Expose Freedesktop FileManager using Thunar dbus implementation.
+TryExec=python /usr/share/thunar-dbus-file-manager/expose-filemanager.py
+Exec=python /usr/share/thunar-dbus-file-manager/expose-filemanager.py
+Icon=file-manager
+OnlyShowIn=XFCE;
+Terminal=false
+Hidden=true

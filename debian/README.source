@@ -1,0 +1,8 @@
+dbus-file-manager for Debian
+----------------------------
+
+The expose-filemanager.py script exposes a dbus object that implements the
+freedesktop File Manager DBus specification for Thunar.
+
+ * https://github.com/dirk-olmes/dbus-file-manager
+

@@ -1,0 +1,16 @@
+Source: thunar-dbus-file-manager
+Section: xfce
+Priority: extra
+Maintainer: Matias De lellis  <mati86dl@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/dirk-olmes/dbus-file-manager
+Vcs-Git: https://github.com/dirk-olmes/dbus-file-manager.git
+Vcs-Browser: https://github.com/dirk-olmes/dbus-file-manager
+
+Package: thunar-dbus-file-manager
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python, python-gobject-2, python-dbus
+Provides: thunar-dbus-file-manager
+Description: Expose-filemanager.py script exposes a dbus object that implements the
+ freedesktop File Manager DBus specification for thunar.

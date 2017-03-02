@@ -1,0 +1,2 @@
+expose-filemanager.py /usr/share/thunar-dbus-file-manager/
+debian/thunar-dbus-file-manager.desktop /etc/xdg/autostart/
